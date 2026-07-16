@@ -1,6 +1,7 @@
-# 📘 MySQL Day 02 - DDL + DML + WHERE Clause Practice
+# 📘 MySQL Day 03
+ - DDL + DML + WHERE Clause Practice
 
-## 📅 Day 02 Topics
+## 📅 Day 03 Topics
 
 - CREATE DATABASE
 - USE DATABASE

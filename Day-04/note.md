@@ -1,4 +1,4 @@
-# Day 01 - SQL Basics Practice
+# Day 04 - SQL Basics Practice
 
 ## 📌 Objective
 
@@ -53,3 +53,7 @@ After completing this practice, I learned:
 - How to filter using BETWEEN.
 - How to sort data using ORDER BY.
 - How to use aggregate functions like MAX() and MIN().
+
+# Author --
+
+        Asmit singh
